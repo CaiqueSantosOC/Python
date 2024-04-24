@@ -1,5 +1,5 @@
 # DESAFIO 10 - Faça um programa que leia a largura e altura de uma parede em metros.
-# Calcule a sua área e a quantidade de tinta necessária para pinta - lá.
+# Calcule a sua área e a quantidade de tinta nescessária para pinta - lá.
 # Sabendo que cada litro de tinta pinta uma área de 2 m2.
 
 print('Desafio 10 iniciando.')
