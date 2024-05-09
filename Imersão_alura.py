@@ -1,6 +1,6 @@
-print ('Hello, world!')
-print ('Muito obrigado!')
-nome = int(input('Digite o seu nome..'))
-sobre = int(input('Digite seu sobre nome..'))
-print (f'Prazer {nome} + {sobre}, é um prazer te conheçer')
+import requests 
+
+url = 'https://raw.githubusercontent.com/guilhermeonrails/api-imersao-ia/main/words.json'
+resposta = requests.get(url)
+
 
